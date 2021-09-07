@@ -1,6 +1,6 @@
 {
-  "homepage": "http://bimurto.github.io/home",
-  "name": "bimurto.github.io",
+  "homepage": "https://bimurto.io",
+  "name": "home",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
