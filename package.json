@@ -1,5 +1,5 @@
 {
-  "homepage": "https://bimurto.github.io/",
+  "homepage": "http://bimurto.github.io/home",
   "name": "bimurto.github.io",
   "version": "0.1.0",
   "private": true,
@@ -38,12 +38,12 @@
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
-    "predeploy": "npm run build && react-snap",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "lint": "eslint src",
     "test": "react-scripts test --watchAll=false",
-    "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js"
+    "analyze": "yarn build && source-map-explorer build/static/js/*.chunk.js"
   },
   "eslintConfig": {
     "extends": [
