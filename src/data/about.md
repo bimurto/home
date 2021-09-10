@@ -13,15 +13,15 @@ interested in DevOps and System Automation. I love learning new technologies and
 - At class 5, I attended a nationwide scholarship exam in my country and somehow got first place among all other
   candidates in Bangladesh. I got to meet the Prime Minister of our country and got a medal from her.
 
-- At class 8, I got my first computer. I was a single core 2.8 GHz Pentium processor. We did not have internet and I
-  only played games and watched movies on that.
+- At class 8, I got my first computer. It was a single core 2.8 GHz Pentium processor. We did not have any internet and
+  I only played games and watched movies on that.
 
 - After my SSC, we moved to Dhaka with my parents for my and my sister's education. My father got transferred to another
   district, but we stayed in Dhaka. I got admitted in the best Higher Secondary College in Bangladesh Notre Dame
   College.
 
-- I got my first phone after joining Notre Dame College. It was a BenQ branded phone with media playback support and
-  a .3MP camera. I spent my 2 years by studying, doing quizzes, getting repeats in physics lab and making friends.
+- I got my first phone after joining Notre Dame College. It was a BenQ branded phone with media playback support and a
+  .3MP camera. I spent my 2 years by studying, doing quizzes, getting repeats in physics lab and making friends.
 
 - After my Higher Secondary Exam, I studied too hard for getting a chance to admit to the best engineering university in
   Bangladesh, BUET. Because of my hard work, I placed 84th at the admission exam and chose Computer Science for my
