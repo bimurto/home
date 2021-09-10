@@ -17,10 +17,10 @@ interested in DevOps and System Automation. I love learning new technologies and
   only played games and watched movies on that.
 
 - After my SSC, we moved to Dhaka with my parents for my and my sister's education. My father got transferred to another
-  district, but we stayed in Dhaka. I got admitted in the best Higher Secondary College in Bangladesh **Notre Dame
-  College**.
+  district, but we stayed in Dhaka. I got admitted in the best Higher Secondary College in Bangladesh Notre Dame
+  College.
 
-- I got my first phone after joining **Notre Dame College**. It was a BenQ branded phone with media playback support and
+- I got my first phone after joining Notre Dame College. It was a BenQ branded phone with media playback support and
   a .3MP camera. I spent my 2 years by studying, doing quizzes, getting repeats in physics lab and making friends.
 
 - After my Higher Secondary Exam, I studied too hard for getting a chance to admit to the best engineering university in
