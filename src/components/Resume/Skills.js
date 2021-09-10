@@ -73,8 +73,7 @@ class Skills extends Component {
                 <div className="link-to" id="skills"/>
                 <div className="title">
                     <h3>Skills</h3>
-                    <p>Here is a honest overview of my skills. 1 means I am familiar, 2 means I am previous professional
-                        experience and 3 will mean I am confident in skills in that technology.
+                    <p>Here is a honest overview of my skills. From 5 as Expert to 1 as Familiar.
                     </p>
                 </div>
                 <div className="skill-button-container">

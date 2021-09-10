@@ -6,26 +6,26 @@ import {faStackOverflow} from "@fortawesome/free-brands-svg-icons/faStackOverflo
 // to add other icons.
 
 const data = [
-  {
-    link: 'https://github.com/bimurto',
-    label: 'Github',
-    icon: faGithub,
-  },
-  {
-    link: 'https://www.linkedin.com/in/shawrup-kumer-suter/',
-    label: 'LinkedIn',
-    icon: faLinkedinIn,
-  },
-  {
-    link: 'https://stackoverflow.com/users/13755857/shawrup',
-    label: 'Stackoverflow',
-    icon: faStackOverflow,
-  },
-  {
-    link: 'mailto:shawrup.k.suter@gmail.com',
-    label: 'Email',
-    icon: faEnvelope,
-  },
+    {
+        link: 'https://github.com/bimurto',
+        label: 'Github',
+        icon: faGithub,
+    },
+    {
+        link: 'https://www.linkedin.com/in/shawrup-kumer-suter/',
+        label: 'LinkedIn',
+        icon: faLinkedinIn,
+    },
+    {
+        link: 'https://stackoverflow.com/users/13755857/shawrup',
+        label: 'Stackoverflow',
+        icon: faStackOverflow,
+    },
+    {
+        link: 'mailto:shawrup.k.suter@gmail.com',
+        label: 'Email',
+        icon: faEnvelope,
+    },
 ];
 
 export default data;
