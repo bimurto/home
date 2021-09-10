@@ -1,47 +1,47 @@
 // TODO Add a couple lines about each project
 const data = [
     {
-        title: 'Nearest Dollar',
+        title: 'Kona Card',
         subtitle: '2015 BVP Hackathon',
-        image: '/images/projects/nearestdollar.jpg',
+        link: 'https://konacard.co.kr',
+        image: '/images/projects/konacard.png',
         date: '2015-11-20',
         desc:
-            'Built for a social impact hackathon. '
-            + 'NearestDollar connected to your bank accounts, credit cards, '
-            + 'or debit cards and rounded up your purchases to donate the balance to '
-            + 'the charity of your choice.',
+            'Kona card is a Financial Payment System with hundreds of thousands of users and thousands of merchants.',
     },
     {
-        title: 'Harvest',
+        title: 'Veaver - Video Streaming Service',
         subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-        link: 'https://devpost.com/software/harvest',
-        image: '/images/projects/harvest.jpg',
+        link: 'https://veaver.com',
+        image: '/images/projects/veaver.png',
         date: '2015-09-20',
         desc:
-            'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-            + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-            + 'and nutrient deficiencies at an affordable price for the developing world.',
+            'Veaver is a video based knowledge sharing service for businesses to train employees with video lectures, quiz, short and long questions.',
     },
     {
-        title: 'Space Potato',
+        title: 'Laototo Lottery System',
         subtitle: 'A kickstarter funded potato powered weather balloon.',
-        link: 'http://www.spacepotato.org',
-        image: '/images/projects/spacepotato.jpg',
+        image: '/images/projects/lotto.jpg',
         date: '2015-06-28',
         desc:
-            'Launched a potato battery powered weather balloon with two cameras '
-            + 'and gps transponder. Resulting photos were published in a coffee table book. '
-            + 'You can email me for a copy.',
+            'Lottery Game System for Laos Citizens in collaboration of Laos Government with 5/45 lottery game.',
     },
     {
-        title: 'Cat Detector',
+        title: 'Nagad - Digital Financial System',
         subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-        image: '/images/projects/catdetector.jpg',
+        image: '/images/projects/nagad.png',
+        link: 'https://nagad.com.bd',
         date: '2015-05-15',
         desc:
-            'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-            + 'Over 60,000 cats were classified before server bills made the project too expensive '
-            + 'to continue hosting.',
+            'Nagad is a Digital Financial Service of Bangladesh Post Office with tens of millions of users and hundreds of thousands daily transactions.',
+    },
+    {
+        title: 'CPMS - Campaign Management and Recommendation System',
+        subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+        image: '/images/projects/cpms.png',
+        date: '2015-05-15',
+        desc:
+            'CPMS is a system built to create and manage campaigns to recommend coupons to users based on their past purchases.',
     },
 ];
 
